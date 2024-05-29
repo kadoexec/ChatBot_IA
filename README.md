@@ -1,4 +1,4 @@
-# Chatbot para a Confeitaria
+# Chatbot
 
 Este repositório contém o código-fonte para um chatbot desenvolvido utilizando a API do ChatGPT e integração com o WhatsApp via Twilio.
 
